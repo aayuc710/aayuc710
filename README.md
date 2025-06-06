@@ -42,5 +42,5 @@ I enjoy learning emerging technologies and applying them to real-world projects.
 
 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/your-link  
+LinkedIn: https://www.linkedin.com/in/ayushi-patel-82214b310/ 
 Email: patelaayushi1003@gmail.com
