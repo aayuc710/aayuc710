@@ -29,14 +29,14 @@ I enjoy learning emerging technologies and applying them to real-world projects.
 ## 🚀 Projects:
 
 - **Efashion (MERN Stack App)**  
-  A fully responsive e-commerce web application with user/admin login, product listing, and cart management features.  
+  Efashion is a full-featured e-commerce web application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). The platform supports user authentication, product management, cart functionality, secure checkout, and admin dashboard features.  
   GitHub: https://github.com/aayuc710/efashion-mern-app
 
 - **Django Ecommerce Admin Panel** 
-  A Django-based backend project for managing users, products, and order data.
+  This is a Django-based admin dashboard project for managing an e-commerce platform. The admin panel allows administrators to manage products, categories, users, and orders in a secure and efficient way.
 
 - **Food Wastage Reduction Platform**  
-  A Java Servlet/JSP application for managing books, user records, and inventory in a library system.
+  A Java Servlet/JSP application for  addresses the global issue of food waste by providing a solution that connects food retailers, consumers, and charitable organizations. It promotes sustainability, reduces hunger, and enhances food redistribution by facilitating surplus food sharing.
 
 ---
 
