@@ -1,4 +1,4 @@
-👋 Hello, I'm Ayushi Patel
+## 👋 Hello, I'm Ayushi Patel
 
 I'm a passionate Software Developer with a solid background in full-stack web development, particularly with the MERN stack.  
 I recently completed my Bachelor of Engineering in Information Technology, where I gained strong technical knowledge in both frontend and backend technologies.
@@ -8,15 +8,15 @@ I'm also building my foundation toward a future in Data Analytics.
 
 ---
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 Education:  
+## 🎓 Education:  
 I recently completed a Bachelor of Engineering in Information Technology, where I built a strong base in programming languages such as C, Java, HTML, CSS, JavaScript, and MongoDB/Node/React.  
 I enjoy learning emerging technologies and applying them to real-world projects.
 
 ---
 
-🧰 Skills:
+## 🧰 Skills:
 
 - Frontend Development: HTML5, CSS3, Bootstrap, JavaScript, React.js  
 - Backend Development: Node.js, Express.js, Java (Servlet/JSP), Django (basic)  
@@ -26,7 +26,7 @@ I enjoy learning emerging technologies and applying them to real-world projects.
 
 ---
 
-🚀 Projects:
+## 🚀 Projects:
 
 - **Efashion (MERN Stack App)**  
   A fully responsive e-commerce web application with user/admin login, product listing, and cart management features.  
@@ -40,7 +40,7 @@ I enjoy learning emerging technologies and applying them to real-world projects.
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/ayushi-patel-82214b310/ 
 Email: patelaayushi1003@gmail.com
